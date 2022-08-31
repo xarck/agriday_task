@@ -1,0 +1,1 @@
+enum SortingWays { ASCNAME, DESCNAME, ASCPRICE, DESCPRICE }
